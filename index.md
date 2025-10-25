@@ -2,5 +2,5 @@
 
 Please choose a document:
 
-- [Privacy Policy](privacy-policy)
-- [Terms of Service](terms-of-service)
+- [Privacy Policy](PRIVACY_POLICY)
+- [Terms of Service](TERMS_OF_SERVICE)
